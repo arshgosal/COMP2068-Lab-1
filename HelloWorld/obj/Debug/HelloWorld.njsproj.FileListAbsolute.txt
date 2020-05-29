@@ -1,0 +1,2 @@
+C:\Users\Arsh Gosal\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.njsprojAssemblyReference.cache
+C:\Users\Arsh Gosal\source\repos\HelloWorld\HelloWorld\bin\Microsoft.NodejsTools.WebRole.dll
